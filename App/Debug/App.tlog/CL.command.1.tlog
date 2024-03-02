@@ -1,0 +1,4 @@
+^C:\USERS\LENOVO\SOURCE\REPOS\SCRATCH\APP\SRC\MAIN.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"DEBUG\\" /Fd"DEBUG\VC143.PDB" /external:W3 /Gd /TP /analyze- /FC C:\USERS\LENOVO\SOURCE\REPOS\SCRATCH\APP\SRC\MAIN.CPP
+^C:\DEV\SCRATCH\APP\SRC\MAIN.CPP
+/c /IC:\DEV\SCRATCH\DEPENDENCIES\GLFW\INCLUDE /IC:\DEV\SCRATCH\DEPENDENCIES\GLEW\INCLUDE /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D GLEW_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"DEBUG\\" /Fd"DEBUG\VC143.PDB" /external:W3 /Gd /TP /analyze- /FC C:\DEV\SCRATCH\APP\SRC\MAIN.CPP
