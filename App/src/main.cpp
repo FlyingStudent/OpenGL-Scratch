@@ -6,6 +6,9 @@ int main()
 	GLFWwindow* window;
 	if (!glfwInit())
 		return 0;
+	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 	window = glfwCreateWindow(640, 480, "Hello,Trig!", nullptr, nullptr);
 	if (!window)
 	{
